@@ -10,17 +10,17 @@
 
 * NOTES:
 * Difference between the notion of a "function" in high level languages and "module" in HDLs
-* ![This is an image](/wk2_1.JPG)
+* ![This is an image](/wk2_1.jpeg)
 * Example of a verilog module
-* ![This is an image](/wk2_2.JPEG)
+* ![This is an image](/wk2_2.jpeg)
 * A note on assign statement:
-* ![This is an image](/wk2_3.JPEG)
+* ![This is an image](/wk2_3.jpeg)
 * A short note on the data types in verilog:
-* ![This is an image](/wk2_4.JPEG) 
+* ![This is an image](/wk2_4.jpeg) 
 * A note on operators in verilog:
-* ![This is an image](/wk2_5.JPEG)
-* ![This is an image](/wk2_6.JPEG) 
-* ![This is an image](/wk2_7.JPEG)
-* ![This is an image](/wk2_8.JPEG) 
+* ![This is an image](/wk2_5.jpeg)
+* ![This is an image](/wk2_6.jpeg) 
+* ![This is an image](/wk2_7.jpeg)
+* ![This is an image](/wk2_8.jpeg) 
 * The operator precedence chart for verilog is given as:
-* ![This is an image](/wk2_9.JPEG)      
+* ![This is an image](/wk2_9.jpeg)      
